@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/ssh2": "^1.11.6",
+    "@types/ssh2-streams": "^0.1.9",
+    "socket.io": "^4.5.4",
+    "ssh2": "^1.11.0"
+  }
+}
